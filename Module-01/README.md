@@ -1,2 +1,2 @@
 # MSDS-422-DL
-Projects for MSDS-422-DL - Module 01
+Projects for MSDS-422-DL - Module 
