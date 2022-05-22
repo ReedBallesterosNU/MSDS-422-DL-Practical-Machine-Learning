@@ -4,3 +4,4 @@ test
 train
 *.h5
 *_OLD.ipynb
+sample_submission.csv
