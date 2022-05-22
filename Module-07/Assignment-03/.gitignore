@@ -1,2 +1,3 @@
 my_mnist_logs
 .ipynb_checkpoints
+.DS_Store
